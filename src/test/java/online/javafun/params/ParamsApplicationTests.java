@@ -1,13 +1,13 @@
-package online.javafun.mvcparams;
+package online.javafun.params;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MvcParamsApplicationTests {
+class ParamsApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
